@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
-Selamat datang di repositori **Sistem Inventaris**. Proyek ini adalah aplikasi web sederhana untuk mengelola data barang inventaris sekolah (CRUD) yang dibangun menggunakan **Flask**, **PostgreSQL**, dan **Docker**.
+Selamat datang di repositori **Sistem Inventaris**. Proyek ini adalah aplikasi web sederhana untuk mengelola data barang inventaris (CRUD) yang dibangun menggunakan **Flask**, **PostgreSQL**, dan **Docker**.
 
 
 Proyek ini dibuat sebagai materi workshop **"Modern Web App untuk Guru"** untuk demonstrating bagaimana membuat aplikasi yang siap deploy, scalable, dan mudah dikelola.
