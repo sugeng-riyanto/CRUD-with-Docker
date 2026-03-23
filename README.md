@@ -1,4 +1,4 @@
-﻿# 🏫 Sistem Inventaris Sekolah (Flask + Docker)
+﻿# 🏫 Sistem Inventaris(Flask + Docker)
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.3-green.svg)](https://flask.palletsprojects.com/)
